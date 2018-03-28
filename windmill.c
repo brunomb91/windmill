@@ -1,8 +1,10 @@
+// Para compilar no Mac
 #include <OpenGL/gl.h>
 #include <OpenGL/glu.h>
 #include <GLUT/glut.h>
 
 /*
+// Para compilar no Linux
 #include <GL/gl.h>
 #include <GL/glu.h>
 #include <GL/glut.h>
