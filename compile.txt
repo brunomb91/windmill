@@ -1,0 +1,1 @@
+gcc windmill.c -o windmill -framework GLUT -framework Cocoa -framework CoreFoundation -framework OpenGL
