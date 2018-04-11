@@ -1,5 +1,7 @@
 
 # windmill
 Catavento em OpenGL
-Disciplina: Computaço Gráfica
+
+Disciplina: Computação Gráfica
+
 Aluno: Bruno Marques
